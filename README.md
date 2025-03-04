@@ -20,9 +20,10 @@ Usage of BlackEye for attacking targets without prior mutual consent is illegal.
 ### Usage:
 ```
 git clone https://github.com/thelinuxchoice/blackeye
-cd blackeye
+cdgit clone https://github.com/UndeadSec/SocialFishMobile.git socialfish
+ blackeye
 bash blackeye.sh
-```
+
 
 
 ### Donate!
